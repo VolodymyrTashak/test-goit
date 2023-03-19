@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "user": "Elon Reeve Musk",
+        "tweets": 777,
+        "followers": 100500,
+        "avatar": "Avatar.png"
+        },
+        {
+            "id": 2,
+            "user": "Allen Raymond",
+            "tweets": 484,
+            "followers": 100500,
+            "avatar": "Avatar.png"
+            },
+            {
+                "id": 3,
+                "user": "Chaim Lewis",
+                "tweets": 844,
+                "followers": 100500,
+                "avatar": "Avatar.png"
+                },
+                {
+                    "id": 4,
+                    "user": "Kennedy Lane",
+                    "tweets": 284,
+                    "followers": 100500,
+                    "avatar": "Avatar.png"
+                    },
+                    {
+                        "id": 5,
+                        "user": "Wylie Pope",
+                        "tweets": 757,
+                        "followers": 100500,
+                        "avatar": "Avatar.png"
+                        },
+                        {
+                            "id": 6,
+                            "user": "Cyrus Jackson",
+                            "tweets": 871,
+                            "followers": 100500,
+                            "avatar": "Avatar.png"
+                            },
+                            {
+                                "id": 7,
+                                "user": "Abbot Franks",
+                                "tweets": 465,
+                                "followers": 100500,
+                                "avatar": "Avatar.png"
+                                },
+                                {
+                                    "id": 8,
+                                    "user": "Reuben Henry",
+                                    "tweets": 214,
+                                    "followers": 100500,
+                                    "avatar": "Avatar.png"
+                                    },
+                                    {
+                                        "id": 9,
+                                        "user": "Simon Morton",
+                                        "tweets": 567,
+                                        "followers": 100500,
+                                        "avatar": "Avatar.png"
+                                        },
+                                        {
+                                            "id": 10,
+                                            "user": "Thomas Lucas",
+                                            "tweets": 135,
+                                            "followers": 100500,
+                                            "avatar": "Avatar.png"
+                                            }
+]
+    
